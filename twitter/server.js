@@ -34,8 +34,8 @@ app.use(express.json());
 
 const twitterAPIKey = "Place your consumer key here";
 const twitterSecretAPIKey = "Place you secret consumer key here";
-const twitterAccessToken = "Place your access token here";
-const twitterSecretAccessToken = "Place your secret access token here";
+const twitterAccessToken = "1346097639574540288-oggjXXbkI8IJZn4E6VO6cAZ7Bdak8c";
+const twitterSecretAccessToken = "wzf5McrSbJwJUlxy96D0ESstzC8IaieepQ9vh0qu0VDGR";
 const targetUrl = "Place your server's url here";
 const projectId = "Place your dialogflow projectId here";
 const environmentName = "Place your twitter environment name here";
